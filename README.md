@@ -12,12 +12,20 @@ The **Weather Forecast App** is a Flutter-based application that provides real-t
 
 ## 🖥️ Screenshots
 ### Home Screen
-![Home Screen](image1.png)
+<div align="center">
+<img src="assets/demo/home.png" width="400" height:"200" alt="Home Page">
+</div>
+
 ### 7-Day Forecast
-![7-Day Forecast](image2.png)
+<div align="center">
+<img src="assets/demo/daily.png" width="400" height:"200" alt="7-Day Forecast Page">
+</div>
+
 
 ## 🎥 Demo Video
-[![Watch the Demo](video-thumbnail.png)](video-link)
+<div align="center">
+<img src="assets/demo/demo_video.gif" width="400" alt="Demo video">
+</div>
 
 SCREEN RECORDING ON IPHONE 15 PRO MAX EMULATOR
 ## 🛠️ Technologies Used
